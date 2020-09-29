@@ -1,9 +1,20 @@
 # :monkey: Awesome-Xamarin-Forms-2020
-Collection for Xamarin Forms libraries in 2020, last updated within a year.
+To start with Xamarin.Forms:
+
+1. Xamarin.Forms, also check the official examples.
+2. Xamarin.Essential, to leverage the functionalities of mobile.
 
 
 
+To strengthen the application:
 
+1. MVVM
+2. Shell
+3. XCT: Xamarin.Forms.Community.Tools
+
+
+
+To exploit the potential:
 
 | Repo                                                         |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
